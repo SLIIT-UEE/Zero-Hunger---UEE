@@ -1,0 +1,19 @@
+ECHO is on.
+# Node modules
+node_modules/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+android/app/build/
+ios/build/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# MacOS System Files
+.DS_Store
